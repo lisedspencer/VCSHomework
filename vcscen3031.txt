@@ -1,2 +1,4 @@
+Group Member One: Kacy Spencer
 Group Member Two: Khubaib Farah
 $ git clone https://github.com/lisedspencer/VCSHomework.git
+$ git add vcscen3031.txt
